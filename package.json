@@ -1,0 +1,30 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "<img width=\"100%\" alt=\"chess_homepage\" src=\"https://user-images.githubusercontent.com/20470949/135734203-a4cb9ab4-64e3-433b-8004-d1cd8a87dfed.png\">",
+  "main": "index.js",
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrieltal/chess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gabrieltal/chess/issues"
+  },
+  "homepage": "https://github.com/gabrieltal/chess#readme",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.7.1",
+    "vite": "^7.0.6"
+  }
+}
